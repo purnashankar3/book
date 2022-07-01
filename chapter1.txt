@@ -1,1 +1,2 @@
-This is the chapter one
+This is the chapter one.
+This is the first chapter of my story.
